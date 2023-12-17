@@ -1,0 +1,24 @@
+.titleCnt{
+    text-align: center;
+    background-color: rgb(108, 190, 159);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#tableCntTeacher{
+   border: 3px green solid;
+   border-radius: 10px;
+}
+
+.tableTeachers{
+    overflow-y: auto;
+    height: 600px !important;
+    margin-top: 30px;
+}
+
+.tableTeachers thead th{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(108, 190, 159);
+}
+

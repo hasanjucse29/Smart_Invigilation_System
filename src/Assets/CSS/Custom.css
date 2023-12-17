@@ -1,0 +1,70 @@
+
+.title{
+    background-color:mediumspringgreen;
+    font-size: 30px;
+    color: rgba(0,0,0,0.7);
+    font-family: Arial, serif;
+}
+.invigilation{
+    text-align: center;
+}
+.simpleBtn{
+   padding: 10px 0px 10px 0px !important;
+    border-radius: 40px!important;
+}
+.imgDiv{
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+.loginComponent{
+    margin-top: 30%;
+}
+.loginBtn{
+    width: 300px!important;
+    margin: 30px 0;
+}
+.formDIv1{
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 30%;
+}
+.formDIv2{
+    width: 300px;
+    margin-left: 30%;
+}
+
+.profile img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.pBackground{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+    height: 100vh;
+
+
+    display: inline-block; width: 20%;
+    text-align: center;
+}
+.profileContainer{
+width: 1000px;
+    margin-left: 25px;
+}
+.btnDIv{
+    margin-top: 350px;
+}
+.btnDIv Button{
+    width: 190px;
+    margin: 10px 5px;
+    padding: 10px 20px 10px 20px;
+}
+.profile
+{
+    text-align: center;
+}
+.login{
+    text-align: center;
+}

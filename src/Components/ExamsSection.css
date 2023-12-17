@@ -1,0 +1,29 @@
+.titleCnt{
+    text-align: center;
+    background-color: rgb(28, 68, 29);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#tableCntExam{
+   border: 3px rgb(83, 186, 83) solid;
+   border-radius: 10px;
+}
+
+.tableExams{
+    overflow-y: auto;
+    height: 600px !important;
+    margin-top: 30px;
+}
+
+.tableExams thead th{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(108, 190, 159);
+}
+
+.tableCntSP{
+   width: 90%;
+   margin-left: auto;
+   margin-right: auto;
+}
